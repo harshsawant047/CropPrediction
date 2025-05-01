@@ -136,5 +136,4 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Authors
 
-- [Your Name](https://github.com/yourusername)  
-- Collaborators from [Your Institution Name]
+- [Harsh Sawant](https://github.com/harshsawant67)  
